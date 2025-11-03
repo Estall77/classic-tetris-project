@@ -24,7 +24,7 @@ cssselect==1.1.0
 decorator==4.4.2
 Deprecated==1.2.13
 disco-py==0.0.14rc1
-discord.py==1.5.1
+discord.py==2.6.4
 Django==3.2.11
 django-admin-sortable2==1.0.3
 django-appconf==1.0.5
@@ -136,3 +136,4 @@ wiki==0.9
 wrapt==1.13.3
 yarl==1.5.1
 zipp==3.7.0
+pip<24.1
